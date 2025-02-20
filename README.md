@@ -1,1 +1,1 @@
-# Update ClearCase : Legal Text Classification with Explainable AI
+# ClearCase : Legal Text Classification with Explainable AI
